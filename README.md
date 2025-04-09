@@ -28,7 +28,7 @@ This project implements a face recognition system using **DeepFace**, a powerful
    - Store facial images in `dataset/`, organized by person name.
 3. **Run Face Recognition**:
    ```sh
-   python face_recognition.py
+   python eee.py
    ```
 
 ## How It Works
